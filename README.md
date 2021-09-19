@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @William Chan
 - 👀 I’m interested in ... web dev, ethereum programming
-- 🌱 I’m currently learning ... React!
+- 🌱 I’m currently learning ... React & Vanilla JS!
 - 💞️ I’m looking to learn from others on ... web3, react, fullstack
 - 📫 How to reach me ... wc2184@nyu.edu
 
