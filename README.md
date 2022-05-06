@@ -1,6 +1,4 @@
-- 👀 I’m interested in ... web dev, ethereum programming
-- 🌱 I’m currently learning ... React & Vanilla JS!
-- 💞️ I’m looking to learn from others on ... web3, react, fullstack
+- 👀 I’m interested in front end (React) and backend (Express/Node)
 
 <!---
 wc2184/wc2184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
