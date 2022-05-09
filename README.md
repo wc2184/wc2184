@@ -1,5 +1,5 @@
-- 👀 My all time favorite language is JavaScript, and my favorite library/framework is React. 
-- 🎖️ My main focus is frontend programming.
+- 👀 My all time favorite language is JavaScript, and my favorite library/framework is React. I also very much enjoy flexbox.
+- 🎖️ My main focus is frontend programming. 
 - 🦢 I love aesthetic websites- I enjoy getting into the nitty gritty details of website design.
 - 🥪 I also do backend programming with Node/Express, PostgreSQL, Firebase, and others... but I am most proficient in frontend JavaScript. 
 
