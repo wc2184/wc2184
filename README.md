@@ -5,7 +5,7 @@
 
  ⏱️ Recently working on: 
 - https://www.workorpay.com (trying out a startup/business)
-- Set goals. Form contracts. Pay the penalty if you fail. Accountability with dollars on the line.
+  WorkOrPay lets you be held accountable to your goals by putting down money. Set goals. Form contracts. Pay the penalty if you fail. Accountability with dollars on the line.
 <!---
 wc2184/wc2184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
