@@ -4,7 +4,7 @@
 - 🥪 I also do backend programming with Node/Express, Firebase, and others... but I am most proficient in frontend JavaScript. 
 
  ⏱️ Recently working on: 
-- 🔨 https://www.WorkOrPay.com (my attempt at a startup/business)
+- 🔨 https://www.WorkOrPay.com (my attempt at a startup/business, but mostly to learn how to build a website)
 
   WorkOrPay lets you be held accountable to your goals by putting down money. Set goals. Form contracts. Pay the penalty if you fail. Accountability with dollars on the line.
 <!---
