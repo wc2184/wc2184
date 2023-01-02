@@ -1,5 +1,6 @@
 # personal notes: main 4: mailme spotifree https://github.com/eightants/reddium/ real good something like this for a diff site pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back
 [design inspo](https://www.makerpad.co/)
+- Not seeking job.
 - 👀 My all time favorite language is JavaScript, and my favorite library/framework is React. 
 - 🎖️ My main focus is frontend programming. 
 - 🦢 I love aesthetic websites- I enjoy getting into the nitty gritty details of website design.
