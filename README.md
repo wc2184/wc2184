@@ -1,4 +1,4 @@
-
+<!-- 
 ### Core systems
 
 **Topics covered**:
@@ -33,7 +33,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 Bradfield CS Software Systems: Behind the Abstractions
 
 [[Video] Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained & Python 3 Tutorial](https://www.youtube.com/watch?v=olYdb0DdGtM&list=PLzMcBGfZo4-lTUl-4m1-9Jk27Eulyrmkx&index=1)
-
+ -->
 # personal notes: main 4: mailme spotifree https://github.com/eightants/reddium/ real good something like this for a diff site pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back
 [design inspo](https://www.makerpad.co/)
 - Not seeking job.
