@@ -38,7 +38,7 @@ Bradfield CS Software Systems: Behind the Abstractions
 # personal notes: main: 
 ADD GIFS TO README for each project [Resource](https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47) use [gifcap](https://github.com/joaomoreno/gifcap)
 
-design a portfolio site
+design a portfolio site like [this](https://bennymeier-media.vercel.app/projects)
 ## My Web Projects
 #### Crème de la crème (the good ones)
 - [Spotifree](https://spotifreeaa22.herokuapp.com/), like spotify, beautiful UI and totally free and search any song; made w/ React, Redux, Rails
