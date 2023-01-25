@@ -35,7 +35,7 @@ Bradfield CS Software Systems: Behind the Abstractions
 [[Video] Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained & Python 3 Tutorial](https://www.youtube.com/watch?v=olYdb0DdGtM&list=PLzMcBGfZo4-lTUl-4m1-9Jk27Eulyrmkx&index=1)
  -->
  Please ignore this messy page- it's for personal reference
-# personal notes: main 4: mailme spotifree [Vanilla JS Calculator](https://wc2184.github.io/oldstuff/calc.html), [SortAlg](https://wc2184.github.io/SortAlg/) https://github.com/eightants/reddium/ real good something like this for a diff site ~~pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back~~
+# personal notes: main: mailme spotifree [Vanilla JS Calculator](https://wc2184.github.io/oldstuff/calc.html), [SortAlg](https://wc2184.github.io/SortAlg/), [Bitcoin Hash Target Calculator](https://wc2184.github.io/oldstuff//targetfinder/index.html), https://github.com/eightants/reddium/ real good something like this for a diff site ~~pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back~~
 ||idea scan qr code with phone then phone acts as a controller for the game that updates live on the browser. make a quick gif on the demo to show for recruiter  (STEVE KRUG DONT MAKE ME THINK)
 [design inspo](https://www.makerpad.co/)
 - Not seeking job.
