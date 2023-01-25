@@ -39,7 +39,7 @@ Bradfield CS Software Systems: Behind the Abstractions
 ADD GIFS TO README for each project [Resource](https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47)
 ## My Web Projects
 #### Crème de la crème (the good ones)
-- [Spotifree](https://spotifreeaa22.herokuapp.com/), like spotify, but totally free and search any song; made w/ React, Redux, Rails
+- [Spotifree](https://spotifreeaa22.herokuapp.com/), like spotify, beautiful UI and totally free and search any song; made w/ React, Redux, Rails
 - [MailMe](https://mailmeaa.herokuapp.com/login), like mailchimp, send out any email and create email lists; made w/ React, Redux, Node, MongoDB
 - [WorkOrPay](https://www.workorpay.com/), Deposit money and set a goal, do it or we keep your money; made w/ React, Firebase, Node.js 
 - [CalendarThings](https://calendar-things.vercel.app/calendar), a sleek minimalistic calendar todo list; made w/ React, Firebase
