@@ -52,9 +52,9 @@ ADD GIFS TO README for each project [Resource](https://josephcardillo.medium.com
 #### Planned
 - something basic, like a [qr code generator with a minimalist sleek ui](https://hovercode.com/)
 - Design inspo: I want to do something like https://github.com/eightants/reddium/ real good something like this for a diff site 
-<!-- - ~~pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back~~ -->
 - just an idea, scan qr code with phone then phone acts as a controller for the game that updates live on the browser. make a quick gif on the demo to show for recruiter  (STEVE KRUG DONT MAKE ME THINK)
 - [Minimalist design inspo Makerpad.co](https://www.makerpad.co/)
+<!-- - ~~pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back~~ -->
 
 
 <!-- - Not seeking job.
