@@ -36,14 +36,16 @@ Bradfield CS Software Systems: Behind the Abstractions
  -->
  Please ignore this messy page- it's for personal reference
 # personal notes: main: 
-#### Crème de la crème
+ADD GIFS TO README for each project [Resource](https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47)
+## My Web Projects
+#### Crème de la crème (the good ones)
 - [Spotifree](https://spotifreeaa22.herokuapp.com/), like spotify, but totally free and search any song; made w/ React, Redux, Rails
 - [MailMe](https://mailmeaa.herokuapp.com/login), like mailchimp, send out any email and create email lists; made w/ React, Redux, Node, MongoDB
 - [WorkOrPay](https://www.workorpay.com/), Deposit money and set a goal, do it or we keep your money; made w/ React, Firebase, Node.js 
 - [CalendarThings](https://calendar-things.vercel.app/calendar), a sleek minimalistic calendar todo list; made w/ React, Firebase
 - [SortAlg](https://wc2184.github.io/SortAlg), a sorting algorithm visualizer; made w/ Chart.js
 - [Vanilla JS Calculator](https://wc2184.github.io/oldstuff/calc.html), just a calculator; made w/ Vanilla JS
-#### Just for fun
+#### Others (just for fun, not polished)
 - [Bitcoin Hash Target Calculator](https://wc2184.github.io/oldstuff//targetfinder/index.html), find how hard the latest bitcoin block mine was; made w/ Vanilla JS
 - [Bypass NYU Covid Screener](https://wc2184.github.io/oldstuff/pass.html), covid screener without needing to login; made w/ Vanilla JS
 - [Vanilla JS Todo App](https://wc2184.github.io/oldstuff/todolist.html), simple todo list; made w/ Vanilla JS
