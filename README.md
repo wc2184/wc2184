@@ -35,10 +35,26 @@ Bradfield CS Software Systems: Behind the Abstractions
 [[Video] Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained & Python 3 Tutorial](https://www.youtube.com/watch?v=olYdb0DdGtM&list=PLzMcBGfZo4-lTUl-4m1-9Jk27Eulyrmkx&index=1)
  -->
  Please ignore this messy page- it's for personal reference
-# personal notes: main: mailme spotifree [Vanilla JS Calculator](https://wc2184.github.io/oldstuff/calc.html), [SortAlg](https://wc2184.github.io/SortAlg/), [Bitcoin Hash Target Calculator](https://wc2184.github.io/oldstuff//targetfinder/index.html), https://github.com/eightants/reddium/ real good something like this for a diff site ~~pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back~~
-||idea scan qr code with phone then phone acts as a controller for the game that updates live on the browser. make a quick gif on the demo to show for recruiter  (STEVE KRUG DONT MAKE ME THINK)
-[design inspo](https://www.makerpad.co/)
-- Not seeking job.
+# personal notes: main: 
+#### Crème de la crème
+- [Spotifree](https://spotifreeaa22.herokuapp.com/), like spotify, but totally free and search any song; made w/ React, Redux, Rails
+- [MailMe](https://mailmeaa.herokuapp.com/login), like mailchimp, send out any email and create email lists; made w/ React, Redux, Node, MongoDB
+- [WorkOrPay](https://www.workorpay.com/), Deposit Money. Set a goal. We keep the money if you fail. Defunct business, but website still live; made w/ React, Firebase, Node.js 
+- [CalendarThings](https://calendar-things.vercel.app/calendar), a sleek minimalistic calendar todo list; made w/ React, Firebase
+- [SortAlg](https://wc2184.github.io/SortAlg), a sorting algorithm visualizer; made w/ Chart.js
+- [Vanilla JS Calculator](https://wc2184.github.io/oldstuff/calc.html), just a calculator; made w/ Vanilla JS
+#### Just for fun
+- [Bitcoin Hash Target Calculator](https://wc2184.github.io/oldstuff//targetfinder/index.html), find how hard the latest bitcoin block mine was; made w/ Vanilla JS
+- [Bypass NYU Covid Screener](https://wc2184.github.io/oldstuff/pass.html), covid screener without needing to login; made w/ Vanilla JS
+- [Vanilla JS Todo App](https://wc2184.github.io/oldstuff/todolist.html), simple todo list; made w/ Vanilla JS
+#### Planned
+- Design inspo: I want to do something like https://github.com/eightants/reddium/ real good something like this for a diff site 
+<!-- - ~~pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back~~ -->
+- just an idea, scan qr code with phone then phone acts as a controller for the game that updates live on the browser. make a quick gif on the demo to show for recruiter  (STEVE KRUG DONT MAKE ME THINK)
+- [Minimalist design inspo Makerpad.co](https://www.makerpad.co/)
+
+
+<!-- - Not seeking job.
 - 👀 My all time favorite language is JavaScript, and my favorite library/framework is React. 
 - 🎖️ My main focus is frontend programming. 
 - 🦢 I love aesthetic websites- I enjoy getting into the nitty gritty details of website design.
@@ -47,7 +63,7 @@ Bradfield CS Software Systems: Behind the Abstractions
  ⏱️ Recently worked on: 
 - 🔨 https://www.WorkOrPay.com (Mostly to learn how to build a full stack website)
 
-  WorkOrPay lets you be held accountable to your goals by putting down money. Set goals. Form contracts. Pay the penalty if you fail. Accountability with dollars on the line.
+  WorkOrPay lets you be held accountable to your goals by putting down money. Set goals. Form contracts. Pay the penalty if you fail. Accountability with dollars on the line. -->
 <!---
 wc2184/wc2184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
