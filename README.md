@@ -34,6 +34,11 @@ Bradfield CS Software Systems: Behind the Abstractions
 
 [[Video] Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained & Python 3 Tutorial](https://www.youtube.com/watch?v=olYdb0DdGtM&list=PLzMcBGfZo4-lTUl-4m1-9Jk27Eulyrmkx&index=1)
  -->
+# Hello, I'm William 👋
+- 💻 Frequently using: `.py`, `.js`, `.jsx`, `.html`, `.css`
+
+---
+
  Please ignore this messy page- it's for personal reference
 # personal notes: main: 
 ADD GIFS TO README for each project [Resource](https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47) use [gifcap](https://github.com/joaomoreno/gifcap)
