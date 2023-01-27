@@ -44,6 +44,7 @@ Bradfield CS Software Systems: Behind the Abstractions
  Please ignore this messy page- it's for personal reference
 # personal notes: main: 
 ADD GIFS TO README for each project [Resource](https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47) use [gifcap](https://github.com/joaomoreno/gifcap)
+1409 889 edge browser equal spacing capture cloudinary cdn
 
 design a portfolio site like [this](https://bennymeier-media.vercel.app/projects)
 ## My Web Projects
