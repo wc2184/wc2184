@@ -50,8 +50,8 @@ design a portfolio site like [this](https://bennymeier-media.vercel.app/projects
 <!-- #### Crème de la crème (the good ones) -->
 ##### Solo Projects
 - [Spotifree](https://spotifreewilliam.vercel.app/search), like spotify, beautiful UI and totally free and search any song; made w/ React, Redux
-- [YoutubeDL](https://frontend-youtube.vercel.app/home), store and download any youtube video or audio, mp4 and mp3 files; made w/ React, Firebase
 - [SortAlg](https://wc2184.github.io/SortAlg), a sorting algorithm visualizer; made w/ Chart.js
+- [YoutubeDL](https://frontend-youtube.vercel.app/home), store and download any youtube video or audio, mp4 and mp3 files; made w/ React, Firebase
 - [CalendarThings](https://calendar-things.vercel.app/calendar), a sleek minimalistic calendar todo list; made w/ React, Firebase
 - [Vanilla JS Calculator](https://wc2184.github.io/oldstuff/calc.html), just a calculator; made w/ Vanilla JS
 
