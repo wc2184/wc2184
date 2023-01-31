@@ -69,6 +69,7 @@ design a portfolio site like [this](https://bennymeier-media.vercel.app/projects
 - Design inspo: I want to do something like https://github.com/eightants/reddium/ real good something like this for a diff site 
 - just an idea, scan qr code with phone then phone acts as a controller for the game that updates live on the browser. make a quick gif on the demo to show for recruiter  (STEVE KRUG DONT MAKE ME THINK)
 - [Minimalist design inspo Makerpad.co](https://www.makerpad.co/)
+- [AI Lecture](https://karpathy.ai/zero-to-hero.html)
 <!-- - ~~pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back~~ -->
 
 
