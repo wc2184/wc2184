@@ -71,6 +71,7 @@ design a portfolio site like [this](https://bennymeier-media.vercel.app/projects
 - [Minimalist design inspo Makerpad.co](https://www.makerpad.co/)
 - [AI Lecture](https://karpathy.ai/zero-to-hero.html)
 - [Subarray vs Substring vs Subset vs Subsequence](https://quanticdev.com/algorithms/primitives/subarray-vs-substring-vs-subsequence-vs-subset/)
+- [DP](https://quanticdev.com/algorithms/dynamic-programming/staircase-problems/)
 <!-- - ~~pdf uploader? leetcode spaced repit w/ seqeliz? workorpay in footnotes as abandoned. ecommerce site w/ stripe. fastapi python back~~ -->
 
 
