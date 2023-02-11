@@ -63,7 +63,7 @@ design a portfolio site like [this](https://bennymeier-media.vercel.app/projects
 - [MailMe](https://mailmeaa.herokuapp.com/login), like mailchimp, send out any email and create email lists; made w/ React, Redux, Node, MongoDB
 - [WorkOrPay](https://www.workorpay.com/), Deposit money and set a goal, do it or we keep your money; made w/ React, Firebase, Node.js 
 
-##### Others (just for fun)
+##### My Other Work (just for fun)
 - [Bitcoin Hash Target Calculator](https://wc2184.github.io/oldstuff//targetfinder/index.html), find how hard the latest bitcoin block mine was; made w/ Vanilla JS
 - [Bypass NYU Covid Screener](https://wc2184.github.io/oldstuff/pass.html), covid screener without needing to login; made w/ Vanilla JS
 - [Vanilla JS Todo App](https://wc2184.github.io/oldstuff/todolist.html), simple todo list; made w/ Vanilla JS
