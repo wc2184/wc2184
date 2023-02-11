@@ -55,12 +55,12 @@ design a portfolio site like [this](https://bennymeier-media.vercel.app/projects
 ##### Solo Projects
 - [Spotifree](https://spotifreewilliam.vercel.app/search), like spotify, beautiful UI and totally free and search any song; made w/ React, Redux
 - [SortAlg](https://wc2184.github.io/SortAlg), a sorting algorithm visualizer; made w/ Chart.js
-- [YoutubeDLNow](https://frontend-youtube.vercel.app/home), store and download any youtube video or audio, mp4 and mp3 files; made w/ React, Firebase, Node.js
+- [YoutubeDLNow](https://youtubedlnow.vercel.app/home), store and download any youtube video or audio, mp4 and mp3 files; made w/ React, Firebase, Node.js
 - [CalendarThings](https://calendar-things.vercel.app/calendar), a sleek minimalistic calendar todo list; made w/ React, Firebase
 - [Vanilla JS Calculator](https://wc2184.github.io/oldstuff/calc.html), just a calculator; made w/ Vanilla JS
 
 ##### Group Projects
-- [MailMe](https://mailmeaa.herokuapp.com/login), like mailchimp, send out any email and create email lists; made w/ React, Redux, Node, MongoDB
+- [MailMe](https://mailmeaa.herokuapp.com/), like mailchimp, send out any email and create email lists; made w/ React, Redux, Node, MongoDB
 - [WorkOrPay](https://www.workorpay.com/), Deposit money and set a goal, do it or we keep your money; made w/ React, Firebase, Node.js 
 
 ##### My Other Work (just for fun)
