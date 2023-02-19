@@ -37,7 +37,6 @@ Bradfield CS Software Systems: Behind the Abstractions
 # Hello, I'm William 👋
 ## [Click to View My Personal Site](https://williamchan.surge.sh)
 - 🤖 Programming since 2020.
-- 📚 Studied Computer Science at New York University & Western Governors University.
 - 🦢 I love aesthetic websites- I enjoy getting into the nitty gritty details of website design.
 - 💻 Frequently using: `.py`, `.js`, `.jsx`, `.html`, `.css`
 
