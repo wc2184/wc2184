@@ -33,6 +33,13 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 Bradfield CS Software Systems: Behind the Abstractions
 
 [[Video] Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained & Python 3 Tutorial](https://www.youtube.com/watch?v=olYdb0DdGtM&list=PLzMcBGfZo4-lTUl-4m1-9Jk27Eulyrmkx&index=1)
+
+MD5 COLLISIONS/PREIMAGE 1st 2nd: https://crypto.stackexchange.com/questions/1173/what-are-preimage-resistance-and-collision-resistance-and-how-can-the-lack-ther
+A collision is, given a hash function, come up with two documents with the same hash, but you can control both documents. A (first) preimage attack if, given a hash function and just a hash (output), find the document (input). A (second) preimage attack is, given a hash function and one document, find another document with the same hash. 
+
+MD5 collisions are totally broken and can be generated in seconds if you are allowed to control the contents of the 2 documents.
+
+First and Second preimage attacks are still practically infeasible for MD5, and even the same for older hashing algorithms like MD4.
  -->
 # Hello, I'm William 👋
 ## [Click to View My Personal Site](https://williamchan.surge.sh)
