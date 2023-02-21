@@ -40,6 +40,9 @@ A collision is, given a hash function, come up with two documents with the same 
 MD5 collisions are totally broken and can be generated in seconds if you are allowed to control the contents of the 2 documents.
 
 First and Second preimage attacks are still practically infeasible for MD5, and even the same for older hashing algorithms like MD4.
+https://stackoverflow.com/questions/8860512/whats-the-difference-between-collision-resistance-and-preimage-resistance/8860704#8860704
+
+in pre-image attack, you are only leaking the hash H to the attacker, whereas in the second-preimage attack you are giving away both message m and the result of H(m). In both cases, the attacker has to find message m prime which will produce the same hash.
  -->
 # Hello, I'm William 👋
 ## [Click to View My Personal Site](https://williamchan.surge.sh)
