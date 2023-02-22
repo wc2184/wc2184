@@ -43,6 +43,13 @@ First and Second preimage attacks are still practically infeasible for MD5, and 
 https://stackoverflow.com/questions/8860512/whats-the-difference-between-collision-resistance-and-preimage-resistance/8860704#8860704
 
 in pre-image attack, you are only leaking the hash H to the attacker, whereas in the second-preimage attack you are giving away both message m and the result of H(m). In both cases, the attacker has to find message m prime which will produce the same hash.
+
+Capacity to Ship Packages - Leetcode 1011 - Python
+Neetcode
+https://www.youtube.com/watch?v=ER_oLmdc-nw
+I think its worth explaining why Binary Search actually works in this case, and the reason is that our "canShip" function is monotonic, which means if we found some weight that doesn't fit, it for sure means that every weight below that also won't fit, and same for if we found a weight that fits, no need to check any values above that weight.
+
+Also there is no reason to set res = min(res, cap), it is enough to just set res = cap, since it will always update it if we entered that if, again because of the monotonic attribute.
  -->
 # Hello, I'm William 👋
 ## [Click to View My Personal Site](https://williamchan.surge.sh)
