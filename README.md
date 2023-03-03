@@ -50,6 +50,8 @@ https://www.youtube.com/watch?v=ER_oLmdc-nw
 I think its worth explaining why Binary Search actually works in this case, and the reason is that our "canShip" function is monotonic, which means if we found some weight that doesn't fit, it for sure means that every weight below that also won't fit, and same for if we found a weight that fits, no need to check any values above that weight.
 
 Also there is no reason to set res = min(res, cap), it is enough to just set res = cap, since it will always update it if we entered that if, again because of the monotonic attribute.
+
+https://lively-banoffee-a7bd63.netlify.app/#three this guy's ExpressPOS is nb
  -->
 # Hello, I'm William 👋
 ## [Click to View My Personal Site](https://williamchan.surge.sh)
