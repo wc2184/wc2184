@@ -23,6 +23,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | [chat](https://discord.gg/AsUXcPu)
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | [chat](https://discord.gg/wZNgpep)
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
+👋 OS Course: https://ops-class.org/slides/
 
 [[Video] CS 15-213 CMU Introduction to Computer Systems (CS:APP)](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
 
@@ -52,6 +53,8 @@ I think its worth explaining why Binary Search actually works in this case, and 
 Also there is no reason to set res = min(res, cap), it is enough to just set res = cap, since it will always update it if we entered that if, again because of the monotonic attribute.
 
 https://lively-banoffee-a7bd63.netlify.app/#three this guy's ExpressPOS is nb
+
+OS Course Lectures: https://ops-class.org/slides/
  -->
 # Hello, I'm William 👋
 ## [Click to View My Personal Site](https://williamchan.surge.sh)
