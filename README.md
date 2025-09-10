@@ -83,7 +83,10 @@ design a portfolio site like [this](https://bennymeier-media.vercel.app/projects
 
 ##### Group Projects
 - [MailMe](https://mailmeaa.herokuapp.com/), like mailchimp, send out any email and create email lists; made w/ React, Redux, Node, MongoDB
+- [WorkOrPay](https://www.envariable.com/), Deposit money and set a goal, do it or we keep your money; made w/ React, Firebase, Node.js
+<!-- 
 - [WorkOrPay](https://www.workorpay.com/), Deposit money and set a goal, do it or we keep your money; made w/ React, Firebase, Node.js 
+-->
 
 ##### My Other Work (just for fun, less time involvement)
 - [Bitcoin Hash Target Calculator](https://wc2184.github.io/oldstuff//targetfinder/index.html), find how hard the latest bitcoin block mine was; made w/ Vanilla JS
