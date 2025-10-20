@@ -75,21 +75,21 @@ design a portfolio site like [this](https://bennymeier-media.vercel.app/projects
 <!-- #### Crème de la crème (the good ones) -->
 ##### Solo Projects
 - [Spotifree](https://spotifree.app/search), like spotify, beautiful UI and totally free and search any song; made w/ React, Redux
-- [YoutubeDLNow](https://youtubedlnow.vercel.app/home), store and download any youtube video or audio, mp4 and mp3 files; made w/ React, Firebase, Node.js
+- [YoutubeDLNow](https://youtubedlnow.vercel.app/home), store and download any youtube video or audio, mp4 and mp3 files; made w/ React, Firebase, Node.js (Not functional as of October 2025, due to the yt-dlp node package being screwed by Google).
 - [CalendarThings](https://calendar-things.vercel.app/calendar), a sleek minimalistic calendar todo list; made w/ React, Firebase
 - [Vanilla JS Calculator](https://wc2184.github.io/oldstuff/calc.html), just a calculator; made w/ Vanilla JS
 - [SortAlg](https://wc2184.github.io/SortAlg), a sorting algorithm visualizer; made w/ Chart.js
 
 
 ##### Group Projects
-- [MailMe](https://mailmeaa.herokuapp.com/), like mailchimp, send out any email and create email lists; made w/ React, Redux, Node, MongoDB
+- [MailMe](https://mailmeaa.herokuapp.com/), like mailchimp, send out any email and create email lists; made w/ React, Redux, Node, MongoDB (Taken down as of 2023 due to Heroku free tier sunsetting)
 - [WorkOrPay](https://www.envariable.com/), Deposit money and set a goal, do it or we keep your money; made w/ React, Firebase, Node.js
 <!-- 
 - [WorkOrPay](https://www.workorpay.com/), Deposit money and set a goal, do it or we keep your money; made w/ React, Firebase, Node.js 
 -->
 
 ##### My Other Work (just for fun, less time involvement)
-- [Bitcoin Hash Target Calculator](https://wc2184.github.io/oldstuff//targetfinder/index.html), find how hard the latest bitcoin block mine was; made w/ Vanilla JS
+- [Bitcoin Hash Target Calculator](https://wc2184.github.io/oldstuff//targetfinder/index.html), find how hard the latest bitcoin block mine was; made w/ Vanilla JS (Not functional as of 2025 due to blockchain.com public api becoming paid)
 - [Easy NYU Covid Screener](https://wc2184.github.io/oldstuff/pass.html), covid screener without needing to login; made w/ Vanilla JS
 - [Vanilla JS Todo App](https://wc2184.github.io/oldstuff/todolist.html), simple todo list; made w/ Vanilla JS
 - and [others... ](https://github.com/wc2184/wc2184.github.io)
